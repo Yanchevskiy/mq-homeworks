@@ -1,0 +1,10 @@
+.card__contact {
+  display: block;
+}
+
+a:active, 
+a:hover,  
+a {
+  text-decoration: none;
+  color: #666;
+}
