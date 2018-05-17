@@ -13,13 +13,13 @@
 }
 
 @media (max-width: 481px) {
-	.popup__close {
-		font-size: 15px;
-	}
+  .popup__close {
+    font-size: 15px;
+  }
 }
 
 @media (min-width: 480px) {
-	.popup__close {
-		font-size: 20px;
-	}
+  .popup__close {
+    font-size: 20px;
+  }
 }
