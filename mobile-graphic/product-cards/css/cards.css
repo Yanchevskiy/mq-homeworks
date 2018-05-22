@@ -3,19 +3,16 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: flex-start;
   }
 
   .product {
     width: 32%;
-  }
-
-  .product:nth-child(3n+2) {
-   margin-left: auto;
-   margin-right: auto;
   }
 }
 
 .product__footer {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
 }
