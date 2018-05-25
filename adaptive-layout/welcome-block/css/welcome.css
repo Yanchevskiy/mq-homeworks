@@ -7,10 +7,13 @@
   font-size: 3em;
 }
 
+.header {
+  background-color: #4e4646;  
+}
+
 @media (min-width: 1300px) {
   .header {
     font-size: 16px;
-    background-color: #4e4646;
     background-image: url("../img/netology_1900.jpg");    
   }
 }
@@ -18,7 +21,6 @@
 @media (min-width: 640px) and (max-width: 1301px) {
   .header {
     font-size: 12px;
-    background-color: #4e4646;
     background-image: url("../img/netology_1200.jpg"); 
   }
 }
@@ -26,7 +28,6 @@
 @media (max-width: 641px) {
   .header {
     font-size: 8px;
-    background-color: #4e4646;
     background-image: url("../img/netology_600.jpg");
   }
 }
