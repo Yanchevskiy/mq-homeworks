@@ -14,13 +14,13 @@ p {
 }
 
 @media (min-width: 768px) {
-	html{
+  html{
     font-size: 62.5%;
   }
 }
 
 @media (max-width: 767px) {
-	html{
+  html{
     font-size: 50%;
   }
 }
